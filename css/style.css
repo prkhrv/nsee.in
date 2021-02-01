@@ -1,6 +1,17 @@
 *{
     margin: 0;
+
 }
+
+/* .copyright{
+    color: blue !important;
+} */
+
+.mynav{
+    font-size: 15px !important;
+    font-family: 'Julius Sans One', sans-serif;
+}
+
 .headTop{
     background: rgb(26, 26, 83);
     color: white;
@@ -16,3 +27,35 @@
 .con2{
     background-color: #eee;
 }
+
+.footer{
+    font-family: 'Julius Sans One', sans-serif;
+}
+.copyright{
+    background-color: #111;
+    font-family: 'Julius Sans One', sans-serif;
+
+  }
+
+.twi-color{
+    color:#4099FF;
+}
+.fa-color{
+  color: #3b5998;
+}
+.i-color{
+  color: #e4405f;
+}
+.twi-color:hover,.fa-color:hover,.i-color:hover{
+  cursor: pointer;
+  color: #9fa19f;
+}
+
+.footer-text{
+    color: #fff !important;
+    font-weight: bold;
+}
+
+/* .text-color{
+    color: #050706;
+  } */
