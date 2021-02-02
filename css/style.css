@@ -189,6 +189,9 @@ img {
     color: white;
 }
 
+.menuItem i {
+    display: none;
+}
 
 /* .text-color{
     color: #050706;
