@@ -72,7 +72,7 @@
 }
 
 .text-warning {
-    color: #ffc107 !important;
+    color: #dc3545 !important;
 }
 
 .section-about ul.nav.nav-tabs {
@@ -124,7 +124,17 @@ img {
         border-left-style: none;
 }
 
+.container {
+    max-width: 1140px;
+}
 
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -5px;
+    margin-left: -5px;
+)
+    
 /* .text-color{
     color: #050706;
   } */
