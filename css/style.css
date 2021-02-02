@@ -144,6 +144,51 @@ img {
     color: #dc3545 !important;
 }
 
+.navBar {
+    background-color: #082f55;
+    z-index: 999;
+    color: white;
+    position: relative;
+}
+
+.nabCollaps {
+    display: grid;
+    justify-content: right;
+}
+
+.menuItem {
+    display: inline-block;
+    position: relative;
+    padding: 7px 7px;
+        padding-top: 7px;
+        padding-right: 7px;
+        padding-bottom: 7px;
+        padding-left: 7px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.dropDown {
+    position: absolute;
+    left: 0px;
+    top: 32px;
+    width: 200px;
+    height: auto;
+    background-color: #011529;
+    display: none;
+    transition: ease-in-out 300ms;
+        transition-property: all;
+        transition-duration: 300ms;
+        transition-timing-function: ease-in-out;
+        transition-delay: 0s;
+    border-bottom: rgb(158, 158, 158) solid 2px;
+        border-bottom-color: rgb(158, 158, 158);
+        border-bottom-style: solid;
+        border-bottom-width: 2px;
+    z-index: 8;
+    color: white;
+}
+
 
 /* .text-color{
     color: #050706;
