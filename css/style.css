@@ -71,10 +71,6 @@
     height: auto;
 }
 
-.text-warning {
-    color: #dc3545 !important;
-}
-
 .section-about ul.nav.nav-tabs {
     display: flex;
     overflow: hidden;
@@ -139,6 +135,9 @@ img {
     width: 100%;
 }
 
+.text-warning {
+    color: #dc3545 !important;
+}
 
 /* .text-color{
     color: #050706;
