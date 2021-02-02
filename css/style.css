@@ -57,6 +57,31 @@
     font-weight: bold;
 }
 
+.section-about {
+    width: 100%;
+    height: auto;
+    padding: 60px 0px;
+    background-color: rgb(245, 245, 245);
+    margin-top: 50px;
+}
+
+.imgBox-design {
+    box-shadow: 15px 15px 0px 0px #f6ea63;
+    width: 90%;
+    height: auto;
+}
+
+.text-warning {
+    color: #ffc107 !important;
+}
+
+.section-about ul.nav.nav-tabs {
+    display: flex;
+    overflow: hidden;
+        overflow-x: hidden;
+        overflow-y: hidden;
+}
+
 /* .text-color{
     color: #050706;
   } */
