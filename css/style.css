@@ -134,7 +134,12 @@ img {
     margin-right: -5px;
     margin-left: -5px;
 )
-    
+ 
+.fullWidth {
+    width: 100%;
+}
+
+
 /* .text-color{
     color: #050706;
   } */
