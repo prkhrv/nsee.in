@@ -207,6 +207,11 @@ img {
     display: none;
 }
 
+.menuItem span {
+    text-align: right;
+}
+
+
 /* .text-color{
     color: #050706;
   } */
