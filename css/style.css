@@ -82,6 +82,49 @@
         overflow-y: hidden;
 }
 
+.nav-tabs .nav-link.active {
+    color: #495057;
+    background-color: #fff;
+    border-color: #dee2e6 #dee2e6 #fff;
+        border-top-color: rgb(222, 226, 230);
+        border-right-color: rgb(222, 226, 230);
+        border-bottom-color: rgb(255, 255, 255);
+        border-left-color: rgb(222, 226, 230);
+}
+
+.nav-tabs .nav-link {
+    border: 1px solid transparent;
+        border-top-color: transparent;
+        border-top-style: solid;
+        border-top-width: 1px;
+        border-right-color: transparent;
+        border-right-style: solid;
+        border-right-width: 1px;
+        border-bottom-color: transparent;
+        border-bottom-style: solid;
+        border-bottom-width: 1px;
+        border-left-color: transparent;
+        border-left-style: solid;
+        border-left-width: 1px;
+        border-image-outset: 0;
+        border-image-repeat: stretch;
+        border-image-slice: 100%;
+        border-image-source: none;
+        border-image-width: 1;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+        border-top-style: none;
+        border-right-style: none;
+        border-bottom-style: none;
+        border-left-style: none;
+}
+
+
 /* .text-color{
     color: #050706;
   } */
