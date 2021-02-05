@@ -14,7 +14,7 @@
 }
 
 .headTop{
-    background: rgb(26, 26, 83);
+    background: #082f55;
     color: white;
     width: 100%;
     height: 30px;
@@ -225,3 +225,29 @@ img {
 /* .text-color{
     color: #050706;
   } */
+
+.bg-manual{
+    background-color: #082f55 !important;
+    color: white !important;
+    padding-top: 0rem !important;
+    padding-bottom: 0rem !important;
+    font-size: 0.8rem !important;
+}
+
+.dropdown-manual{
+    background-color: #222e3a !important;
+    font-size: 0.8rem !important;
+}
+
+.drp-item-manual{
+    font-size: 0.8rem !important;
+    color: white !important;
+}
+
+.drp-item-manual:hover{
+    background-color: orange !important;
+}
+
+.nav-item-manual{
+    background-color: #dc3545 !important;
+}
