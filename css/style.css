@@ -29,8 +29,11 @@
     background-color: #eee;
 }
 
+
+
 .footer{
     font-family: 'Julius Sans One', sans-serif;
+    background-color: #082f55 !important;
 }
 .copyright{
     background-color: #111;
